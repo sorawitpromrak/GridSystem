@@ -1,9 +1,9 @@
 ส่วนโค้ดที่เพิ่มขึ้นมามีดังนี้ :
-  <.div class="col-lg-8 col-sm-10 col-xs-12"> ..... </div>
+  <.div class="col-lg-8 col-sm-10 col-xs-12"> ..... <./div>
 
 หน้าที่ของ Grid มีหน้าที่ในการกำหนดและแบ่งช่องต่างๆ ให้ดูสวยงามมากขึ้น และในส่วยของ grid system ที่ใช้สำหรับ table เพื่อกําหนดการใช้จํานวน column ให้เหมาะสมกับตารางและขนาดพื้นที่ในการแสดงผล
 
-
+แหล่งข้อมูลเกี่ยวกับ Grid Bootstrap : https://getbootstrap.com/docs/5.3/layout/grid/ .
 
 <b>ตัวอย่าง output</b>
 
